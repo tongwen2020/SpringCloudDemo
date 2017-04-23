@@ -11,8 +11,8 @@ import org.springframework.web.client.RestTemplate;
  * Created by tongwen on 2017/4/23.
  */
 @RestController
-@RequestMapping(value = "/comsumer")
-public class ComsumerController {
+@RequestMapping(value = "/consumer")
+public class ConsumerController {
 
     @Autowired
     RestTemplate restTemplate;
