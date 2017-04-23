@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Class-Path: spring-boot-starter-1.5.2.RELEASE.jar jsr305-3.0.1.jar jul
+ -to-slf4j-1.7.24.jar rxnetty-contexts-0.4.9.jar httpclient-4.5.3.jar 
+ spring-security-crypto-4.2.2.RELEASE.jar jackson-annotations-2.8.0.ja
+ r netty-codec-4.0.27.Final.jar classmate-1.3.3.jar netty-transport-4.
+ 0.27.Final.jar spring-boot-1.5.2.RELEASE.jar spring-cloud-starter-eur
+ eka-1.3.0.RELEASE.jar validation-api-1.1.0.Final.jar animal-sniffer-a
+ nnotation-1.0.jar spring-boot-starter-web-1.5.2.RELEASE.jar netflix-c
+ ommons-util-0.1.1.jar jersey-client-1.19.1.jar jboss-logging-3.3.0.Fi
+ nal.jar tomcat-embed-websocket-8.5.11.jar jcl-over-slf4j-1.7.24.jar s
+ pring-cloud-starter-feign-1.3.0.RELEASE.jar netty-common-4.0.27.Final
+ .jar spring-context-4.3.7.RELEASE.jar hystrix-core-1.5.10.jar HdrHist
+ ogram-2.1.9.jar guice-4.1.0.jar spring-cloud-starter-archaius-1.3.0.R
+ ELEASE.jar ribbon-loadbalancer-2.2.2.jar ribbon-eureka-2.2.2.jar ribb
+ on-httpclient-2.2.2.jar hibernate-validator-5.3.4.Final.jar commons-j
+ xpath-1.3.jar jackson-core-2.8.7.jar stax2-api-3.1.4.jar spring-boot-
+ starter-tomcat-1.5.2.RELEASE.jar xmlpull-1.1.3.1.jar netflix-eventbus
+ -0.3.0.jar spring-expression-4.3.7.RELEASE.jar netty-buffer-4.0.27.Fi
+ nal.jar tomcat-embed-el-8.5.11.jar log4j-over-slf4j-1.7.24.jar spring
+ -cloud-starter-1.2.0.RELEASE.jar spring-cloud-netflix-core-1.3.0.RELE
+ ASE.jar rxnetty-0.4.9.jar rxnetty-servo-0.4.9.jar spring-webmvc-4.3.7
+ .RELEASE.jar jersey-core-1.19.1.jar spring-beans-4.3.7.RELEASE.jar sp
+ ring-aop-4.3.7.RELEASE.jar netflix-statistics-0.1.1.jar xpp3_min-1.1.
+ 4c.jar netflix-infix-0.3.0.jar archaius-core-0.7.4.jar woodstox-core-
+ asl-4.4.1.jar joda-time-2.9.7.jar commons-codec-1.10.jar slf4j-api-1.
+ 7.24.jar commons-math-2.2.jar httpcore-4.4.6.jar tomcat-embed-core-8.
+ 5.11.jar servo-core-0.10.1.jar eureka-core-1.6.2.jar jackson-databind
+ -2.8.7.jar gson-2.8.0.jar netty-transport-native-epoll-4.0.27.Final.j
+ ar jsr311-api-1.1.1.jar spring-web-4.3.7.RELEASE.jar guava-18.0.jar s
+ pring-cloud-netflix-eureka-client-1.3.0.RELEASE.jar logback-classic-1
+ .1.11.jar ribbon-2.2.2.jar spring-cloud-context-1.2.0.RELEASE.jar fei
+ gn-hystrix-9.4.0.jar ribbon-core-2.2.2.jar snakeyaml-1.17.jar spring-
+ cloud-commons-1.2.0.RELEASE.jar jersey-apache-client4-1.19.1.jar aopa
+ lliance-1.0.jar commons-configuration-1.8.jar spring-core-4.3.7.RELEA
+ SE.jar javax.inject-1.jar antlr-2.7.7.jar netty-handler-4.0.27.Final.
+ jar rxjava-1.1.10.jar stringtemplate-3.2.1.jar servo-internal-0.10.1.
+ jar commons-collections-3.2.2.jar stax-api-1.0.1.jar netty-codec-http
+ -4.0.27.Final.jar spring-security-rsa-1.0.3.RELEASE.jar feign-core-9.
+ 4.0.jar logback-core-1.1.11.jar spring-boot-starter-logging-1.5.2.REL
+ EASE.jar bcprov-jdk15on-1.55.jar ribbon-transport-2.2.2.jar bcpkix-jd
+ k15on-1.55.jar eureka-client-1.6.2.jar feign-slf4j-9.4.0.jar xstream-
+ 1.4.9.jar stax-api-1.0-2.jar antlr-runtime-3.4.jar spring-boot-autoco
+ nfigure-1.5.2.RELEASE.jar spring-cloud-starter-ribbon-1.3.0.RELEASE.j
+ ar jettison-1.3.7.jar commons-lang-2.6.jar
+Main-Class: com.example.CloudFeignServiceApplication
+
